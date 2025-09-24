@@ -1,7 +1,7 @@
 # My First Project 🚀
 
 Welcome to my first web development project! This repository marks the beginning of my journey into web development, where I'm learning the fundamentals of HTML, CSS, and JavaScript.
-
+[Live Demo](https://ayou000.github.io/my-first-project/)
 ## 🎯 Project Overview
 
 This project is part of my learning journey in web development. It's designed to help me understand and practice the core concepts of front-end development while building something practical and functional.
